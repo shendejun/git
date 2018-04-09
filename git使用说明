@@ -13,3 +13,8 @@ git add .
 git commit -m "add a project to github"
 
 git push -u origin master
+
+#每次有修改提交都要重复步骤.
+git add .
+git commit -m "add a project to github"
+git push -u origin master
